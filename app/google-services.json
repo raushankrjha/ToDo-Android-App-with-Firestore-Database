@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "24185520271",
+    "firebase_url": "https://lcotodo.firebaseio.com",
+    "project_id": "lcotodo",
+    "storage_bucket": "lcotodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24185520271:android:9b9deb2036428358",
+        "android_client_info": {
+          "package_name": "com.lco.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24185520271-se9b3ns67pu6u89fqqp840tohoeib6ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM_y2wglpVKW2BWdOSis-Vtga5Yg0Qv2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
